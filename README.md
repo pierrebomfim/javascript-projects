@@ -5,7 +5,7 @@ A webpage will be created to view the projects
 
 ## Projects
 
- - [ ] Digital Clock
+ - [x] Digital Clock
  - [ ] Temperature Converter
  - [ ] Rock Paper Scissors Game
  - [ ] ...
