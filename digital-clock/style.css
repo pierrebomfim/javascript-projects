@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.main {
+    background-color: #ccc;
+    width: 400px;
+    height: 175px;
+    padding: 30px;
+    margin: 100px auto;
+    position: relative;
+}
+
+.badge {
+    width: 96px;
+    background-color: #e66357;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: absolute;
+    top: -10px;
+    left: 40%;
+}
+
+.clock {
+    background-color: #ebebeb;
+    text-align: center;
+    height: 100%;
+    font-size: 80px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
