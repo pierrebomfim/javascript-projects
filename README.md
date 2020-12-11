@@ -5,10 +5,10 @@ Projects developed through my JS studies
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pierrebomfim/fazentech-tasks">
 
 ### Projects
- - [ ] Diagrama ER
- - [x] DDL
- - [x] DML
- - [x] DQL
+ - [ ] Digital Clock
+ - [ ] Temperature Converter
+ - [ ] Rock Paper Scissors Game
+ - [ ] ...
 
 
 References
