@@ -1,7 +1,8 @@
 # javascript-projects <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pierrebomfim/fazentech-tasks">
 Projects developed through my JS studies
 ### Instructions
-A webpage will be created to view the projects
+click on the link to access the projects:
+https://pierrebomfim.github.io/javascript-projects/
 
 ## Projects
 
