@@ -7,8 +7,8 @@ https://pierrebomfim.github.io/javascript-projects/
 ## Projects
 
  - [x] Digital Clock
- - [ ] Temperature Converter
- - [ ] Rock Paper Scissors Game
+ - [x] Temperature Converter
+ - [x] Rock Paper Scissors Game
  - [ ] ...
 
 
