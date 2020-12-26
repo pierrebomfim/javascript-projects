@@ -34,6 +34,7 @@ body {
 
 .choices {
     text-align: center;
+    text-decoration: none;
 }
 .choice {
     color: white;
